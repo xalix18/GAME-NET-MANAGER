@@ -1,0 +1,31 @@
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\GameNet Manager.exe.config
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\GameNet Manager.exe
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\GameNet Manager.pdb
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\Microsoft.Win32.Registry.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Asio.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Core.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Midi.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Wasapi.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.WinForms.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.WinMM.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\System.Security.AccessControl.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\System.Security.Principal.Windows.dll
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\Microsoft.Win32.Registry.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Asio.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Core.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Midi.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.Wasapi.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.WinForms.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\NAudio.WinMM.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\System.Security.AccessControl.xml
+D:\GAMENET MANAGER\my pro\my pro\bin\Release\System.Security.Principal.Windows.xml
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\my pro.csproj.AssemblyReference.cache
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\my_pro.Form1.resources
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\my_pro.Properties.Resources.resources
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\my pro.csproj.GenerateResource.cache
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\my pro.csproj.CoreCompileInputs.cache
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\my pro.csproj.CopyComplete
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\GameNet Manager.exe
+D:\GAMENET MANAGER\my pro\my pro\obj\Release\GameNet Manager.pdb

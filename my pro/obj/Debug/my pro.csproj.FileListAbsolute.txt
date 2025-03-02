@@ -1,0 +1,62 @@
+D:\projje uni\my pro\my pro\bin\Debug\my pro.exe.config
+D:\projje uni\my pro\my pro\bin\Debug\my pro.exe
+D:\projje uni\my pro\my pro\bin\Debug\my pro.pdb
+D:\projje uni\my pro\my pro\obj\Debug\my pro.csproj.AssemblyReference.cache
+D:\projje uni\my pro\my pro\obj\Debug\my_pro.Form1.resources
+D:\projje uni\my pro\my pro\obj\Debug\my_pro.Properties.Resources.resources
+D:\projje uni\my pro\my pro\obj\Debug\my pro.csproj.GenerateResource.cache
+D:\projje uni\my pro\my pro\obj\Debug\my pro.csproj.CoreCompileInputs.cache
+D:\projje uni\my pro\my pro\obj\Debug\my pro.exe
+D:\projje uni\my pro\my pro\obj\Debug\my pro.pdb
+D:\projje uni\my pro\my pro\bin\Debug\Microsoft.Win32.Registry.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Asio.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Core.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Midi.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Wasapi.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.WinForms.dll
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.WinMM.dll
+D:\projje uni\my pro\my pro\bin\Debug\System.Security.AccessControl.dll
+D:\projje uni\my pro\my pro\bin\Debug\System.Security.Principal.Windows.dll
+D:\projje uni\my pro\my pro\bin\Debug\Microsoft.Win32.Registry.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Asio.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Core.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Midi.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.Wasapi.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.WinForms.xml
+D:\projje uni\my pro\my pro\bin\Debug\NAudio.WinMM.xml
+D:\projje uni\my pro\my pro\bin\Debug\System.Security.AccessControl.xml
+D:\projje uni\my pro\my pro\bin\Debug\System.Security.Principal.Windows.xml
+D:\projje uni\my pro\my pro\obj\Debug\my pro.csproj.Up2Date
+D:\projje uni - Copy\my pro\my pro\bin\Debug\my pro.exe.config
+D:\projje uni - Copy\my pro\my pro\bin\Debug\my pro.exe
+D:\projje uni - Copy\my pro\my pro\bin\Debug\my pro.pdb
+D:\projje uni - Copy\my pro\my pro\bin\Debug\Microsoft.Win32.Registry.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Asio.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Core.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Midi.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Wasapi.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.WinForms.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.WinMM.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\System.Security.AccessControl.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\System.Security.Principal.Windows.dll
+D:\projje uni - Copy\my pro\my pro\bin\Debug\Microsoft.Win32.Registry.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Asio.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Core.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Midi.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.Wasapi.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.WinForms.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\NAudio.WinMM.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\System.Security.AccessControl.xml
+D:\projje uni - Copy\my pro\my pro\bin\Debug\System.Security.Principal.Windows.xml
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my pro.csproj.AssemblyReference.cache
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my_pro.Form1.resources
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my_pro.Properties.Resources.resources
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my pro.csproj.GenerateResource.cache
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my pro.csproj.CoreCompileInputs.cache
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my pro.csproj.CopyComplete
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my pro.exe
+D:\projje uni - Copy\my pro\my pro\obj\Debug\my pro.pdb
